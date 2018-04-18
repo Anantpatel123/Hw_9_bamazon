@@ -40,3 +40,8 @@ This is an Amazon-like storefront with the MySQL coding. The app will take in or
 
         * Add New Products.
             - will allow manager to add new product to the store.
+
+
+
+Here's the link to my Demo video
+<a href ="https://drive.google.com/open?id=1ctABKGHqnN0iczwkXy9nlIT3IQexIA8L">Click here for Demo</a>
