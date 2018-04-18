@@ -23,3 +23,17 @@ This is an Amazon-like storefront with the MySQL coding. The app will take in or
         * If the store does not have enough qty, the app logs a phrase like "Insufficient quantity!", and then..
             - Asks user if they want to start over or quit. If the user decide to start over, the whole 
               process starts over or user gets out of the app by picking quit.
+
+
+#### 2. Manager view:
+    
+    1. created a Node application called Manager.js. First, it will show list a set of menu options: 
+       
+        * View Products for Sale.
+            - will list every available item: item_id, names, prices and stock qty.
+        * View Low Inventory.
+            - will list all items with an inventory count lower than 5.
+        * Add to Inventory.
+            - will display a prompt that will let manager "add more" of any item currently in the store.
+        * Add New Products.
+            - will allow manager to add new product to the store.
