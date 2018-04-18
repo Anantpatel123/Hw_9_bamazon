@@ -21,4 +21,5 @@ This is an Amazon-like storefront with the MySQL coding. The app will take in or
             - And Once the update goes through, it will show the customer the total cost of their purchase.
 
         * If the store does not have enough qty, the app logs a phrase like "Insufficient quantity!", and then..
-            - Asks user if they want to start over or quit. If the user decide to start over, the whole process starts over or user gets out of the app by picking quit.
+            - Asks user if they want to start over or quit. If the user decide to start over, the whole 
+              process starts over or user gets out of the app by picking quit.
