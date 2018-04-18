@@ -3,7 +3,7 @@
 ### Overview
 This is an Amazon-like storefront with the MySQL coding. The app will take in orders (product id and qty) from customers and deplete stock from the store's inventory. 
 
-#### 1. Customer view:
+#### 1. Customer view:  uploaded word file called "customer application instruction" with images.
     
     1. Created a MySQL Database called bamazon. Create a table called products and it has item_id, product_name
         dept_name, price and qty of the procuts.
@@ -31,9 +31,12 @@ This is an Amazon-like storefront with the MySQL coding. The app will take in or
        
         * View Products for Sale.
             - will list every available item: item_id, names, prices and stock qty.
+
         * View Low Inventory.
             - will list all items with an inventory count lower than 5.
+
         * Add to Inventory.
             - will display a prompt that will let manager "add more" of any item currently in the store.
+
         * Add New Products.
             - will allow manager to add new product to the store.
