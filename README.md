@@ -3,7 +3,7 @@
 ### Overview
 This is an Amazon-like storefront with the MySQL coding. The app will take in orders (product id and qty) from customers and deplete stock from the store's inventory. 
 
-#### 1. Customer view:  uploaded word file called "customer application instruction" with images.
+#### 1. Customer view:  See below demo for customer view..
     
     1. Created a MySQL Database called bamazon. Create a table called products and it has item_id, product_name
         dept_name, price and qty of the procuts.
@@ -25,7 +25,7 @@ This is an Amazon-like storefront with the MySQL coding. The app will take in or
               process starts over or user gets out of the app by picking quit.
 
 
-#### 2. Manager view:
+#### 2. Manager view:   See below demo for manager view.
     
     1. created a Node application called Manager.js. First, it will show list a set of menu options: 
        
